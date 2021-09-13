@@ -1,0 +1,2 @@
+# Fake-News-Detection
+A king of yellow journalism, fake news is false information and hoaxes spread through social media and other online media to achieve a political agenda. In this data science project idea, i will use Python to build a model that can accurately detect whether a piece of news is real or fake. I’ll build a TfidfVectorizer and use a PassiveAggressiveClassifier to classify news into “Real” and “Fake”. 
